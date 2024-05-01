@@ -1,6 +1,6 @@
 ya listen to the two way alert it goes:
-<img src="{https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white}" />
-<img src="{https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white}" />
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 <img src="{https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white}" />
 <img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" />
 <img src="{https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white}" />
